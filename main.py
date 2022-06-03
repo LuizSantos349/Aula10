@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
 Print('end my life')
 Print('tragedia')
+Print('Tragedia Tripla')
